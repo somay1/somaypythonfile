@@ -1,2 +1,2 @@
 # somaypythonfile
-my first python project
+this repo contains some pf my python project which i made while learning python crash course 
