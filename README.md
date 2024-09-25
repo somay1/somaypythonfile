@@ -1,2 +1,2 @@
 # somaypythonfile
-this repo contains some of my python project which i made while learning python crash course 
+this repo contains all of my python project which i bulid while i was learning python 
